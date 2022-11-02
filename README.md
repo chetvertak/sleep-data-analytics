@@ -1,6 +1,8 @@
 # sleep-data-analytics
-That is new project by Aleksei Chetvertak. This program should analyze my sleep data.
+Analysis of my sleep data. Language - Python. Modules - Pandas, Numpy, Matplotlib.
 -------------------------------------------------------------------------------------
+That is new project by Aleksei Chetvertak.
+
 Status: In progress...
 
 Plans:
